@@ -7,5 +7,5 @@ chmod 777 ALEATORIO.sh
 chmod 777 BIOLOGIA.sh
 chmod 777 QUIMICA.sh
 chmod 777 FISICA.sh
-chmod 777 inicio.sh
+chmod 777 materias.sh
 ./start.sh
